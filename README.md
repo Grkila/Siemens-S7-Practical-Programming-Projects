@@ -32,40 +32,4 @@ All accompanying documentation and exercise instructions can be found in the `do
 To open and work with the projects, it is necessary to have [Siemens TIA Portal](https://support.industry.siemens.com/cs/document/109784440/simatic-step-7-and-wincc-v17-trial-download?dti=0&lc=en-WW) installed.
 
 
----
-
-
-# Praktične Vežbe za Siemens S7-1200 PLC
-
-Ovaj repozitorijum sadrži skup praktičnih vežbi za programiranje Siemens S7-1200 PLC-a, kreiranih u TIA Portal-u.
-
-## Struktura Repozitorijuma
-
-Projekat je organizovan na sledeći način:
-
-- `src/`: Sadrži sve TIA Portal projekte za svaku vežbu.
-- `documentation/`: Sadrži PDF dokumente sa uputstvima za vežbe.
-- `README.md`: Ovaj fajl.
-
-## Projekti
-
-U `src` direktorijumu se nalaze sledeći projekti:
-
-- `Prakticne-1`
-- `Prakticne-2`
-- `Prakticne-3_brojac`
-- `Prakticne-3_sabirac`
-- `Prakticne-4`
-- `Prakticne-5`
-- `Prakticne-6`
-- `Prakticne-setup(Template_projekta)`
-
-## Dokumentacija
-
-Sva prateća dokumentacija i uputstva za vežbe se nalaze u `documentation` direktorijumu u PDF formatu.
-
-## Zahtevi
-
-Za otvaranje i rad sa projektima, neophodno je imati instaliran [Siemens TIA Portal](https://support.industry.siemens.com/cs/document/109784440/simatic-step-7-and-wincc-v17-trial-download?dti=0&lc=en-WW).
-
 
